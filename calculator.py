@@ -1,4 +1,4 @@
-#calculator
+#income tax calculator Aleksandr Evstigneev
 
 grossIncome = float(input('Please, Enter your Gross Income: '))
 
